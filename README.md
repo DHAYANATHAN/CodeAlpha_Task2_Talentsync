@@ -60,8 +60,11 @@ talentsync/
 
 ## 📸 Screenshots
 
-![Home]()
-
+![Login](https://github.com/DHAYANATHAN/CodeAlpha_Task2_Talentsync/blob/main/Screenshot%20(341).png)
+![Home](https://github.com/DHAYANATHAN/CodeAlpha_Task2_Talentsync/blob/main/Screenshot%20(342).png)
+![view job](https://github.com/DHAYANATHAN/CodeAlpha_Task2_Talentsync/blob/main/Screenshot%20(343).png)
+![Saved job](https://github.com/DHAYANATHAN/CodeAlpha_Task2_Talentsync/blob/main/Screenshot%20(344).png)
+![Applied job](https://github.com/DHAYANATHAN/CodeAlpha_Task2_Talentsync/blob/main/Screenshot%20(345).png)
 ---
 
 ## 📈 Future Enhancements
