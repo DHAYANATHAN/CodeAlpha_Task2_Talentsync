@@ -1,0 +1,89 @@
+/* Background */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f3f2ef;
+}
+
+/* Navbar */
+.navbar {
+  background: #0a66c2;
+  color: white;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar h2 {
+  margin: 0;
+}
+
+.nav-links a {
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Layout */
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.feed {
+  width: 55%;
+  margin-top: 20px;
+}
+
+/* Job Card */
+.job-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  transition: 0.3s;
+}
+
+.job-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.job-card h3 {
+  color: #0a66c2;
+  margin: 0;
+  cursor: pointer;
+}
+
+.job-card p {
+  color: #555;
+  margin: 5px 0;
+}
+
+/* Buttons */
+.btn {
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 8px 15px;
+  border: none;
+  background: #0a66c2;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #004182;
+}
+
+/* Search bar */
+.search-bar {
+  width: 100%;
+  padding: 12px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
